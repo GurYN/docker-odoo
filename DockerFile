@@ -2,7 +2,7 @@
 # Name        : Odoo 9.0 all-in-one                                  #
 # Package     : vcibelli/odoo                                        #
 # Version     : 9.0                                                  #
-# Description : Odoo 9 image based on Ubuntu 16.04                   #
+# Description : Odoo 9 image based on Ubuntu 16.04 LTS               #
 # ------------------------------------------------------------------ #
 
 # Use of Ubuntu base image
