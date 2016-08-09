@@ -3,7 +3,7 @@
 A DockerFile to produce an odoo container all-in-one. This container include all dependencies to use Odoo in a standalone mode.
 An official Odoo container exist, you can find it at https://hub.docker.com/_/odoo/
 
-Thanks to 'jedisct1' for the excellent base image of Ubuntu, you can find it at https://hub.docker.com/r/jedisct1/phusion-baseimage-latest/
+Thanks to `jedisct1` for the excellent base image of Ubuntu, you can find it at https://hub.docker.com/r/jedisct1/phusion-baseimage-latest/
 
 ## Docker image creation
 
